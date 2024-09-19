@@ -1,0 +1,10 @@
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\bin\Debug\NongTrai.exe.config
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\bin\Debug\NongTrai.exe
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\bin\Debug\NongTrai.pdb
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\obj\Debug\NongTrai.csproj.AssemblyReference.cache
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\obj\Debug\NongTrai.Form1.resources
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\obj\Debug\NongTrai.Properties.Resources.resources
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\obj\Debug\NongTrai.csproj.GenerateResource.cache
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\obj\Debug\NongTrai.csproj.CoreCompileInputs.cache
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\obj\Debug\NongTrai.exe
+D:\WorkSpace\dotNet\BaiTap1\NongTrai\NongTrai\obj\Debug\NongTrai.pdb
